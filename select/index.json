@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "風が吹いている",
+  "base_artist": "Ikimonogakari",
+  "createdAt": "2026-01-05T09:05:15.682744Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "風が吹いている",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/01_風が吹いている_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "風が吹いている",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/02_風が吹いている_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "風が吹いている",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/03_風が吹いている_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "風が吹いている",
+      "artist": "生物股长",
+      "has_synced": true,
+      "path": "select/04_風が吹いている_生物股长.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "風が吹いている",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/05_風が吹いている_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "風が吹いている-UK recorded version-",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/06_風が吹いている-UK_recorded_version-_いきものがかり.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "風が吹いている-UK recorded version-",
+      "artist": "Ikimonogakari",
+      "has_synced": false,
+      "path": "select/07_風が吹いている-UK_recorded_version-_Ikimonogakari.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "風が吹いている (Kaze Ga Fuiteiru / 바람이 불고 있어) (NHK 런던 2012 방송 테마 송)",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/08_風が吹いている_(Kaze_Ga_Fuiteiru___바람이_불고_있어)_(NHK_런던_2012_방송_테마_송)_Ikimonogakari.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "風が吹いている",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_01_風が吹いている_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "風が吹いている",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_02_風が吹いている_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "風が吹いている",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_03_風が吹いている_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "風が吹いている",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_04_風が吹いている_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "風が吹いている",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_05_風が吹いている_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "風が吹いている",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_06_風が吹いている_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "風が吹いている",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_07_風が吹いている_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "風が吹いている",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_08_風が吹いている_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "風が吹いている",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_09_風が吹いている_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "風が吹いている",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_10_風が吹いている_いきものがかり.txt"
+    }
+  ]
+}
